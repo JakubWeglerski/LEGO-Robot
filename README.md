@@ -30,9 +30,6 @@ The primary objective was to design, build, and program a robot that:
 - Climbs a vertical rope using a LEGO-based mechanism
 - Detects the **bottom end of the line** and the **ceiling at the top**
 - Responds to sensor signals — stops and reverses direction
-- Prevents rope slippage through a dedicated mechanical & software system
-
-> Pre-built climbing mechanisms were not used — the full system was integrated from scratch, from mechanical design to firmware.
 
 ---
 
@@ -43,8 +40,6 @@ The primary objective was to design, build, and program a robot that:
 | **Husarion CORE2** | Main controller (STM32F4 ARM Cortex-M4 @ 168 MHz) |
 | **C++ / hFramework** | Motor drivers, sensor polling, control loops |
 | **LEGO Technic** | Structural chassis, rope-gripping wheel assembly |
-| **DC motors + encoders** | Closed-loop climbing control |
-| **Limit / proximity sensors** | End-of-line and ceiling detection |
 ---
 
 
