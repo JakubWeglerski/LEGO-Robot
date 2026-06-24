@@ -1,7 +1,12 @@
 # 🤖 Rope-Climbing Robot with End Detection
 
 > **Embedded Systems & LEGO Mechatronics Project**  
-> Built with Husarion CORE2 
+> Built with Husarion CORE2
+---
+## 🔗 Project Files
+
+The video of robot is available here:  
+👉 [View on Google Drive](https://drive.google.com/file/d/1LeJXvlAE3gpKTVCMAmB0CtVtIrfMwhCH/view)
 
 ---
 
@@ -42,10 +47,5 @@ The primary objective was to design, build, and program a robot that:
 | **Limit / proximity sensors** | End-of-line and ceiling detection |
 ---
 
-## 🔗 Project Files
 
-The full project (source code, schematics, documentation) is available here:  
-👉 [View on Google Drive](https://drive.google.com/file/d/1LeJXvlAE3gpKTVCMAmB0CtVtIrfMwhCH/view)
-
----
 
