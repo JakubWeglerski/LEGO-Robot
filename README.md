@@ -40,6 +40,12 @@ The primary objective was to design, build, and program a robot that:
 | **LEGO Technic** | Structural chassis, rope-gripping wheel assembly |
 | **DC motors + encoders** | Closed-loop climbing control |
 | **Limit / proximity sensors** | End-of-line and ceiling detection |
+---
 
-```
-You can find my project here: [https://drive.google.com/robot](https://drive.google.com/file/d/1LeJXvlAE3gpKTVCMAmB0CtVtIrfMwhCH/view).
+## 🔗 Project Files
+
+The full project (source code, schematics, documentation) is available here:  
+👉 [View on Google Drive](https://drive.google.com/file/d/1LeJXvlAE3gpKTVCMAmB0CtVtIrfMwhCH/view)
+
+---
+
